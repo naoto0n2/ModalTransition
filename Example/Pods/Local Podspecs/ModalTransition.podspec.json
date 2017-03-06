@@ -1,0 +1,22 @@
+{
+  "name": "ModalTransition",
+  "version": "0.1.0",
+  "summary": "A short description of ModalTransition.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/naoto0n2/ModalTransition",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "naoto0n2": "naoto.0n2@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/naoto0n2/ModalTransition.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ModalTransition/Classes/**/*"
+}

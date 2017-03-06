@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ModalTransition_Example' do
+  pod 'ModalTransition', :path => '../'
+
+  target 'ModalTransition_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,16 @@
+PODS:
+  - ModalTransition (0.1.0)
+
+DEPENDENCIES:
+  - ModalTransition (from `../`)
+
+EXTERNAL SOURCES:
+  ModalTransition:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ModalTransition: e47437fcb0cf9627f295002896d124711b5c64ed
+
+PODFILE CHECKSUM: f50c4366b610adf5dca379a8275f6bf8b581efa5
+
+COCOAPODS: 1.1.1
