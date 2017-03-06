@@ -33,29 +33,29 @@
 		0827AE61594D7D95ECDF71D2B55814ED /* ModalTransition-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ModalTransition-dummy.m"; sourceTree = "<group>"; };
 		0CE134B44F01DA1955DD1175B90D07F0 /* Pods-ModalTransition_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ModalTransition_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		0FC2C59028AE9197FAC6B6715112C401 /* Pods-ModalTransition_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ModalTransition_Tests-dummy.m"; sourceTree = "<group>"; };
-		1431E74EF46DA388723CCF78E7EC6250 /* Pods-ModalTransition_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ModalTransition_Example.modulemap"; sourceTree = "<group>"; };
+		1431E74EF46DA388723CCF78E7EC6250 /* Pods-ModalTransition_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ModalTransition_Example.modulemap"; sourceTree = "<group>"; };
 		14574367E18A52241A53B7BFA2D3D6FA /* Pods-ModalTransition_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ModalTransition_Example-frameworks.sh"; sourceTree = "<group>"; };
 		296906575057CEB8066224E334B7A5D8 /* Pods-ModalTransition_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ModalTransition_Example-dummy.m"; sourceTree = "<group>"; };
-		3A1F461A64E099B9A2660062FBD2DFA3 /* Pods_ModalTransition_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ModalTransition_Tests.framework; path = "Pods-ModalTransition_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A1F461A64E099B9A2660062FBD2DFA3 /* Pods_ModalTransition_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ModalTransition_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D48D1D3BE4FDE6CDCF6A24ECB860D8C /* Pods-ModalTransition_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ModalTransition_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		46C1E571CBD459D443E575FDBBCFDA17 /* Pods-ModalTransition_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ModalTransition_Tests.modulemap"; sourceTree = "<group>"; };
+		46C1E571CBD459D443E575FDBBCFDA17 /* Pods-ModalTransition_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ModalTransition_Tests.modulemap"; sourceTree = "<group>"; };
 		48C6EE64F6222132C1B435B51E8E5D5C /* Pods-ModalTransition_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ModalTransition_Tests-resources.sh"; sourceTree = "<group>"; };
 		4F5A504B185C56F40DFEE9BE48394373 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		515CF234F2E0C6049B8045E03D3BE24E /* Pods-ModalTransition_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ModalTransition_Example-umbrella.h"; sourceTree = "<group>"; };
 		6AFF0EB89DBEB9A0BA26D451176CB2CC /* Pods-ModalTransition_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ModalTransition_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6EA9C60FBC2E9C39CBF9970A7D7C85B9 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		753CC10CDEFC1D93A459E7134B5EB3C2 /* Pods-ModalTransition_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ModalTransition_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A638F5E3E5F4E77CF707B2D999A503B1 /* ModalTransition.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ModalTransition.framework; path = ModalTransition.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A638F5E3E5F4E77CF707B2D999A503B1 /* ModalTransition.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ModalTransition.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6E3E51778EFA2410F34734EC11C4E12 /* ModalTransition.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = ModalTransition.xcconfig; sourceTree = "<group>"; };
 		A82B757B02182A9F843DA5FE8AAA60C9 /* Pods-ModalTransition_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ModalTransition_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A9125FD78A28CB94E357CEBE20DD8895 /* Pods-ModalTransition_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ModalTransition_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BA36187F0F2EB34AE0D8D4109FE6F3F2 /* ReplaceMe.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 		BCEC6924D434C07B8171F65C90DC2250 /* Pods-ModalTransition_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ModalTransition_Tests-umbrella.h"; sourceTree = "<group>"; };
 		BEB2056605AF989B4BE558ABDADCA1F4 /* Pods-ModalTransition_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ModalTransition_Example-resources.sh"; sourceTree = "<group>"; };
-		C5A54EE4E5DA6CDD54ED9B808624D97A /* Pods_ModalTransition_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ModalTransition_Example.framework; path = "Pods-ModalTransition_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C5A54EE4E5DA6CDD54ED9B808624D97A /* Pods_ModalTransition_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ModalTransition_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		CD2306E20A1DB5D434E8324E6EFB1EB4 /* ModalTransition.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = ModalTransition.modulemap; sourceTree = "<group>"; };
+		CD2306E20A1DB5D434E8324E6EFB1EB4 /* ModalTransition.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = ModalTransition.modulemap; sourceTree = "<group>"; };
 		D6515BA2BE48BDD926A6E5CBC92CD0C6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		DDDAB9597AA842FE739D428A68A47E95 /* Pods-ModalTransition_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ModalTransition_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		E8E8453D02E638E38468BEB45EF81771 /* ModalTransition-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ModalTransition-prefix.pch"; sourceTree = "<group>"; };
@@ -97,7 +97,6 @@
 			children = (
 				FFC95D06C4A078B7CF57573C5192AF4F /* Classes */,
 			);
-			name = ModalTransition;
 			path = ModalTransition;
 			sourceTree = "<group>";
 		};
@@ -220,7 +219,6 @@
 			children = (
 				BA36187F0F2EB34AE0D8D4109FE6F3F2 /* ReplaceMe.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -314,6 +312,14 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0700;
+				TargetAttributes = {
+					5B47928B5F100F68981D01D1A9473813 = {
+						LastSwiftMigration = 0820;
+					};
+					EEF4373BFDDF7EF659119A5C4D18F5D4 = {
+						LastSwiftMigration = 0820;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -544,6 +550,7 @@
 				PRODUCT_NAME = Pods_ModalTransition_Example;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -656,6 +663,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
